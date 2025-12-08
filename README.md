@@ -209,6 +209,8 @@ packet loss.
 
 ```bash
 apt install speedtest-cli -y
+```
+```bash
 speedtest
 ```
 
