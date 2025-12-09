@@ -245,6 +245,10 @@ df -h
 
 ---
 
+## If you’re done checking, exit that screen with `ctrl  a + d`
+## And if your CPU specs look good, go ahead and install CodesAssist.
+
+---
 ## 8. Red flags to watch for
 
 * very low CPU clock (e.g., 1200 MHz)
